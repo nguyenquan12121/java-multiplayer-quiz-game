@@ -12,9 +12,9 @@ Add your own name (do not add the names for others!) to the section below.
 |---|---------------------|-------------------------------------|
 |![](https://gitlab.ewi.tudelft.nl/uploads/-/system/user/avatar/4765/avatar.png?width=50)| Mert Bora İnevi     | M.B.Inevi@student.tudelft.nl        |
 | ![](https://secure.gravatar.com/avatar/4b5f3392146b1d1d4fd6f72160491492?s=50&d=identicon) | Nguyen Duy Anh Quan | NguyenDuyAnhQuan@student.tudelft.nl |
-| ![](https://secure.gravatar.com/avatar/d7f782ec04f7eeea0f5b3d0fc2344554?s=500&d=identicon)| Stefan Creasta      | Creasta@student.tudelft.nl          |
-| ![](https://secure.gravatar.com/avatar/e7f1f03a262adfea4a79b04419a980cd?s=500&d=identicon)| Alex Pacurar        | A.V.Pacurar-1@student.tudelft.nl    |
-| ![](https://secure.gravatar.com/avatar/d8acca759ee2e58d0defad94780d05ac?s=500&d=identicon)| Anton Kalpakchiev   | A.D.Kalpakchiev@student.tudelft.nl  |
+| ![](https://secure.gravatar.com/avatar/d7f782ec04f7eeea0f5b3d0fc2344554?s=50&d=identicon)| Stefan Creasta      | Creasta@student.tudelft.nl          |
+| ![](https://secure.gravatar.com/avatar/e7f1f03a262adfea4a79b04419a980cd?s=50&d=identicon)| Alex Pacurar        | A.V.Pacurar-1@student.tudelft.nl    |
+| ![](https://secure.gravatar.com/avatar/d8acca759ee2e58d0defad94780d05ac?s=50&d=identicon)| Anton Kalpakchiev   | A.D.Kalpakchiev@student.tudelft.nl  |
 | ![](https://eu.ui-avatars.com/api/?name=JB&amp;length=4&amp;size=50&amp;color=DDD&amp;background=389fff&amp;font-size=0.325)| Jort Boon           | J.J.Boon@student.tudelft.nl         |
 
 <!-- Instructions (remove once assignment has been completed -->
