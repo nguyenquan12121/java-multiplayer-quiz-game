@@ -87,7 +87,7 @@ The client needs to be run from IntelliJ IDEA (preferably at least version 2021.
 
 You will need a copy of the OpenJFX *SDK* for your operating system. Download one from https://gluonhq.com/products/javafx/ -- make sure it is an SDK -- and extract the archive contents under a folder that you can easily find (preferably not in this project's folder).
 
-To add the JavaFX Lirabry to the project, select `File > Project Structure > Libraries`, and select `+ > Java` then add the absolute path to your extracted JavaFX folder.
+To add the JavaFX Library to the project, select `File > Project Structure > Libraries`, and select `+ > Java` then add the absolute path to your extracted JavaFX folder.
 
 Create an Application run configuration with
 - JDK version 16 or newer,
