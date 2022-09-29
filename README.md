@@ -87,7 +87,7 @@ The client needs to be run from IntelliJ IDEA (preferably at least version 2021.
 
 You will need a copy of the OpenJFX *SDK* for your operating system. Download one from https://gluonhq.com/products/javafx/ -- make sure it is an SDK -- and extract the archive contents under a folder that you can easily find (preferably not in this project's folder).
 
-Add JavaFX as a module for the project under `File>Project Structure...>Project Settings>Modules`. Select the module `quizzzz.client` and on the right panel click `"+">JARs or Directories...` and select the lib path of your JavaFX copy.
+To add the JavaFX Lirabry to the project, select `File > Project Structure > Libraries`, and select `+ > Java` then add the absolute path to your extracted JavaFX folder.
 
 Create an Application run configuration with
 - JDK version 16 or newer,
